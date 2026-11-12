@@ -1,0 +1,5 @@
+# binario compilado do lab (gere com lab/achar.sh)
+lab/cofre-lab.exe
+*.o
+*.pot
+gitleaks-report.json
